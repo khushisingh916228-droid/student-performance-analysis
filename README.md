@@ -26,9 +26,10 @@ To analyze a student performance dataset and answer key questions such as:
 ---
 
 ## 📂 Project Structure
-
+'''
 student-performance-analysis/
 │
 ├── student_analysis.ipynb   # Main analysis notebook
 ├── README.md                 # Project documentation
 └── LICENSE                   # MIT License
+'''
